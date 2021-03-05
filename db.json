@@ -21,28 +21,28 @@
       ],
      "edges": [
       {
-        "edgeId": 1,
+        "id": 1,
         "name": "EDGE001",
         "clientId": 1,
         "isActive": true,
         "timeZone": "America/Denver"
       },
       {
-        "edgeId": 2,
+        "id": 2,
         "name": "EDGE002",
         "clientId": 2,
         "isActive": true,
         "timeZone": "America/Denver"
       },
       {
-        "edgeId": 3,
+        "id": 3,
         "name": "EDGE003",
         "clientId": 3,
         "isActive": true,
         "timeZone": "America/Denver"
       },
       {
-        "edgeId": 4,
+        "id": 4,
         "name": "EDGE004",
         "clientId": 3,
         "isActive": false,

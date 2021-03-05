@@ -1,19 +1,19 @@
 {
     "clients": [
         {
-          "clientId": 1,
+          "id": 1,
           "name": "Client 1",
           "email": "test1@test.com",
           "isActive": true
         },
         {
-          "clientId": 2,
+          "id": 2,
           "name": "Client 2",
           "email": "test2@test.com",
           "isActive": true
         },
         {
-          "clientId": 3,
+          "id": 3,
           "name": "Client 3",
           "email": "test3@test.com",
           "isActive": true
